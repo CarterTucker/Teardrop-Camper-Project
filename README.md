@@ -1,11 +1,49 @@
-The Sleeping Beast
+# Lightweight Teardrop Camper Concept
 
-Prior to coming to college, I planned to build a mini camper I could bring with me. However, I was constrained by a number of factors, including the tow capacity of my car and the cost of construction. Due to these factors, I decided to design the following design, which is, according to my analysis, under 700 pounds (trailer included) and costs less than $1,000 is building material. I hope to, and an in the process of, increasing the aerodynamicity of the camper, making it at least as aerodynamic as the car I'm pulling it from. I have thus named the project "The Sleeping Beast", as it accomplishes more than it seems.
+## Overview
+**The Sleeping Beast** is a lightweight teardrop-style camper concept designed to be towable by a low (or no)-capacity vehicle while remaining inexpensive to build. The project explores structural design, aerodynamic performance, and cost constraints for small trailers.
 
-Accomplishments  
--> Modeled a camper which meets my weight and cost requirements  
--> Ran preliminary analysis via Ansys for drag numbers
-  
-Things to come  
--> Further analysis of drag, and redesign if necessary  
--> Building the camper (far in the future)
+**Design constraints:**
+- Target total weight (camper + trailer): **< 700 lb**
+- Target build cost: **< $1,000 in materials**
+- Aerodynamic performance comparable to the towing vehicle
+
+---
+
+## Current Work
+
+- Designed the camper geometry in CAD while maintaining strict mass, aerodynamic, and cost constraints  
+- Estimated component masses to verify total system weight remains within the dry weight goal
+- Performed **CFD analysis in ANSYS Fluent** to estimate aerodynamic drag 
+- Updated the body geometry in order to reduce drag
+
+---
+
+## Tools Used
+
+- **CAD:** Fusion 360 & SolidWorks  
+- **Simulation:** ANSYS Fluent (CFD)
+
+---
+
+## Images
+
+### CAD Model
+(to come)
+
+### CFD Visualization
+(to come)
+
+### Weight Estimates
+(to come)
+
+---
+
+## Project Progress
+
+Early in the design and manufacturing phase. Materials have been chosen and preliminary analysis has been made. However, I still need to refine the shape of the camper before construction.
+
+Summary of Future Objectives:
+- Additional CFD refinement 
+- Structural analysis of the camper frame with FEA
+- Physical prototype and construction
